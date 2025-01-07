@@ -9,18 +9,13 @@ Instruction Memory: Stores program instructions
 
 # Instruction Support
 # R-Type Instructions
-## Arithmetic: 
-ADD, SUB
-## Logical: 
-AND, OR
-## Shifts: 
-SLL, SRL, SRA
+Arithmetic: ADD, SUB
+Logical: AND, OR
+Shifts: SLL, SRL, SRA
 
 # I-Type Instructions
-## Memory: 
-LW (Load Word), SW (Store Word)
-## Immediate: 
-ADDI, ANDI, ORI
+Memory: LW (Load Word), SW (Store Word)
+Immediate: ADDI, ANDI, ORI
 
 # Branch: 
 BEQ (Branch if Equal), BNE (Branch if Not Equal)
