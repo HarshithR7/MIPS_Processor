@@ -1,4 +1,4 @@
-The implemented MIPS processor consists of several interconnected modules that work together to execute MIPS instructions in a single clock cycle
+I have Implemented 2 MIPS processors which executes MIPS instructions in a single clock cycle and through basic 4 pipeline stages.
 
 Program Counter (PC): Maintains the address of the current instruction
 
